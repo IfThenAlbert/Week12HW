@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863763894943",
+    "project_id": "luisw12authml",
+    "storage_bucket": "luisw12authml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863763894943:android:3494af9094dedac41c08aa",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.alrajab.week12_auth_ml_api_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863763894943-c0vkj4u0jo88qjqh6srl7rdkt68176rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.farmingdale.alrajab.week12_auth_ml_api_demo",
+            "certificate_hash": "a0edf850499c0c3a09cb64b750e88541a431b58b"
+          }
+        },
+        {
+          "client_id": "863763894943-ikst0tlldna7dnhlbsekkemioo0u1bpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZi-uhNWx28hcATv1BVDUHSFFyUaY-ms0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863763894943-ikst0tlldna7dnhlbsekkemioo0u1bpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
